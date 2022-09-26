@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mehedi hasan Maan I'm a student.
+- 👀 I’m interested in android development.
+- 🌱 I’m currently learning android development for a job for my student fees.
+- 💞️ I’m looking to collaborate on developing nice mobile apps.
+- 📫 To contact me email:mhshuja18@gmail.com.
+- Thanks for visiting.
